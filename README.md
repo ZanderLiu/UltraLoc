@@ -23,7 +23,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 🙏 Acknowledgments
 
-- [Swin Transformers](https://github.com/microsoft/Swin-Transformer)
+- [PVTv2](https://github.com/whai362/PVT)
 - [Depth Anything V3](https://github.com/ByteDance-Seed/depth-anything-3)
 - [timm](https://github.com/huggingface/pytorch-image-models)
 
